@@ -54,7 +54,7 @@ Visit our live demo at: [https://smart-task-reminder.vercel.app](https://smart-t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-task-reminder.git
+   git clone https://github.com/yliijang/smart-task-reminder.git
    cd smart-task-reminder
    ```
 
